@@ -79,7 +79,7 @@
 
 .alert-msg > button{
   width: 70%;
-  font-weight: 600;
+  font-weight: 600; 
   background-color:rgb(238, 240, 241);
   border: none;
   border-radius: 5px;
