@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Chainbase Genesis",
+        
+        "login": "https:\/\/genesis.chainbase.com\/"
+    },
+    {
+        "name": "Deriw",
+        
+        "login": "https:\/\/www.deriw.com\/dashboard"
+    },
+    {
+        "name": "Nodepay",
+        "age": "",
+        "login": "https:\/\/app.nodepay.ai\/dashboard"
+    },
+    {
+        "name": "Zeebu",
+        "age": "",
+        "login": "https:\/\/protocol.zeebu.com\/" 
+    },
+    {
+        "name": "RCADE",
+        "age": "",
+        "login": "https:\/\/sidequest.rcade.game\/quests" 
+    },
+    {
+        "name": "Memepad",
+        "age": "",
+        "login": "https:\/\/airdrop.memepad.ai\/app" 
+    },
+    {
+        "name": "Grass",
+        "age": "",
+        "login": "https:\/\/app.getgrass.io\/dashboard" 
+    },
+    {
+        "name": "Plume",
+        "age": "",
+        "login": "https:\/\/miles.plumenetwork.xyz\/" 
+    },
+    {
+        "name": "Nebx",
+        "age": "",
+        "login": "https:\/\/nebx.io\/" 
+    },
+    {
+        "name": "OGC",
+        "age": "",
+        "login": "https:\/\/app.ogcom.xyz\/" 
+    },
+    {
+        "name": "James Woof",
+        "age": "",
+        "login": "https:\/\/app.jameswoof.com\/load" 
+    },
+    {
+        "name": "XION",
+        "age": "",
+        "login": "https:\/\/xion.bonusblock.io\/explore" 
+    },
+    {
+        "name": "SONIEUM",
+        "age": "",
+        "login": "https:\/\/bridge.soneium.org\/en\/testnet" 
+    },
+    {
+        "name": "ASSISTER",
+        "age": "",
+        "login": "https:\/\/build.assisterr.ai\/auth\/wallet-connect" 
+    },
+    {
+        "name": "Fuel",
+        "age": "",
+        "login": "https:\/\/app.fuel.network\/bridge" 
+    },
+    {
+        "name": "CVEX",
+        "age": "",
+        "login": "https:\/\/testnet.cvex.trade\/futures\/SOL" 
+    },
+    {
+        "name": "MON",
+        "age": "",
+        "login": "https:\/\/app.monprotocol.ai\/" 
+    },
+    {
+        "name": "Morph",
+        "age": "",
+        "login": "https:\/\/www.morphl2.io\/points\/genesis_jungle\/" 
+    },
+    {
+        "name": "Superchamps",
+        "age": "",
+        "login": "https:\/\/app.superchamps.com\/onboard\/user" 
+    },
+    {
+        "name": "Allora",
+        "age": "Look for thread",
+        "login": "" 
+    },
+    {
+        "name": "ZERO",
+        "age": "Look for thread",
+        "login": "" 
+    },
+    {
+        "name": "Havens's Compass",
+        "age": "Look for thread",
+        "login": "https:\/\/app.havenscompass.com\/" 
+    },
+    {
+        "name": "GASP",
+        "age": "Look for thread",
+        "login": "https:\/\/holesky-faucet.gasp.xyz\/" 
+    },
+    {
+        "name": "CAMP NETWORK",
+        "age": "Look for thread",
+        "login": "https:\/\/community.campnetwork.xyz\/onboarding\/login" 
+    },
+    {
+        "name": "QUBIT",
+        "age": "Look for thread",
+        "login": "https:\/\/playqub.it\/web\/dashboardLogin\/" 
+    },
+    {
+        "name": "HYBRID",
+        "age": "Look for thread",
+        "login": "https:\/\/app.buildonhybrid.com\/faucet" 
+    },
+    {
+        "name": "Mint",
+        "age": "Look for thread",
+        "login": "https:\/\/www.mintchain.io\/" 
+    },
+    {
+        "name": "TABI",
+        "age": "Look for thread",
+        "login": "https:\/\/tabi.lol\/" 
+    },
+    {
+        "name": "PHOTON",
+        "age": "Look for thread",
+        "login": "https:\/\/photonchain.io\/testnet2\/?ref=ez7howq019bwlwm0" 
+    },
+    {
+        "name": "ZERION",
+        "age": "Look for thread",
+        "login": "" 
+    }
+]   

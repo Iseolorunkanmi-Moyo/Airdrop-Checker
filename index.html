@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./bootstrap.css">
+</head>
+
+<style>
+    .a{
+        color: black;
+        background-color: rgb(44, 144, 44);
+        width: 300px;
+        padding: 4px 15px;
+        
+        text-decoration: none;
+    }
+</style>
+
+<body>
+
+    <div class="container">
+    <div class="row">
+        <div class="col-12">
+
+    <table class="table table-bordered table-stripped mt-3 table-dark">
+        <thead>
+            <th>Index</th>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Login</th>
+            <th>Register</th>
+        </thead>
+
+        <tbody id="table-body">
+
+        </tbody>
+
+    </table>
+
+    </div>
+    </div>
+</div>
+
+    <script>
+        fetch("./data.json")
+
+            .then(res => {
+                // console.log(res)
+                return res.json();
+            })
+
+            .then((objectData) => {
+                var mainRow = document.createElement('tr');
+                var cell1 = document.createElement('td')
+                var cell2 = document.createElement('td')
+                var cell3 = document.createElement('td')
+
+                var cell4 = document.createElement('td')
+                var cell5 = document.createElement('td')
+
+
+                var viewBtn1 = document.createElement('a')
+                var viewBtn2 = document.createElement('a')
+
+                let tempStorage = 0;
+
+                for (let i = 0; i < objectData.length; i++) {
+
+                    var mainRow = document.createElement('tr');
+                    var cell1 = document.createElement('td')
+                    var cell2 = document.createElement('td')
+                    var cell3 = document.createElement('td')
+                    var cell4 = document.createElement('td')
+                    var cell5 = document.createElement('td')
+                    var cell6 = document.createElement('td')
+                    var viewBtn1 = document.createElement('a')
+                    var viewBtn2 = document.createElement('a')
+
+                    viewBtn1.setAttribute('href', objectData[i].login)
+                    viewBtn2.setAttribute('href', objectData[i].register)
+
+                    viewBtn1.innerText = "View"
+                    viewBtn2.innerText = "View"
+
+                    viewBtn1.className = "btn btn-warning btn-sm"
+                    viewBtn2.className = 'btn btn-success btn-sm'
+
+                    mainRow.appendChild(cell1)
+                    mainRow.appendChild(cell2)
+                    mainRow.appendChild(cell3)
+                    mainRow.appendChild(cell4)
+                    mainRow.appendChild(cell5)
+
+
+                    cell1.textContent = i
+                    cell2.textContent = objectData[i].name
+                    cell3.textContent = objectData[i].type
+
+
+
+                    cell4.append(viewBtn1)
+                    cell5.append(viewBtn2)
+
+                    // cell5.textContent = objectData[i]
+
+                    cell4.append(viewBtn1)
+
+
+                    var tableBody = document.getElementById("table-body")
+                    tableBody.appendChild(mainRow);
+                }
+
+
+            })
+
+            .catch(error => console.log('error'));
+
+    </script>
+
+</body>
+
+</html>

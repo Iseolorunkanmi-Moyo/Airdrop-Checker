@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Chainbase Genesis",
+        "type": "Testnet",
+        "login": "https:\/\/genesis.chainbase.com\/",
+        "register": ""
+    },
+    {
+        "name": "RCADE",
+        "type": "Farming",
+        "login": "",
+        "register": "https:\/\/sidequest.rcade.game\/quests"
+    },
+    {
+        "name": "Zeebu",
+        "type": "Protocol",
+        "login": "https:\/\/protocol.zeebu.com\/",
+        "register": ""
+    },
+    {
+        "name": "Assisterr",
+        "type": "Farming",
+        "login": "https:\/\/build.assisterr.ai\/dashboard",
+        "register": "https:\/\/build.assisterr.ai\/?ref=667bd28796df5a76239f1253"
+    },
+    {
+        "name": "Rise",
+        "type": "Farming",
+        "login": "https:\/\/app.side.xyz\/dashboard",
+        "register": ""
+    },
+    {
+        "name": "Nebx",
+        "type": "",
+        "login": "https:\/\/nebx.io\/",
+        "register": "https:\/\/nebx.io\/login?v=57930940"
+    },
+    {
+        "name": "Deriw",
+        "type": "",
+        "login": "https:\/\/www.deriw.com\/earn",
+        "register": "https:\/\/www.deriw.com\/earn"
+    },
+    {
+        "name": "Onchain Heroes",
+        "type": "",
+        "login": "https:\/\/www.onchainheroes.xyz\/signup",
+        "register": "https:\/\/onchainheroes.xyz\/signup?ref=oluwa_tomi60378"
+    },
+    {
+        "name": "Sonic",
+        "type": "Testnet",
+        "login": "https:\/\/testnet.soniclabs.com\/account",
+        "register": ""
+    },
+    {
+        "name": "Humanity Protocol",
+        "type": "Testnet",
+        "login": "https:\/\/testnet.humanity.org\/dashboard",
+        "register": ""
+    }
+]
