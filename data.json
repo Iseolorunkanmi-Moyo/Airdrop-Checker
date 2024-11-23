@@ -3,60 +3,84 @@
         "name": "Chainbase Genesis",
         "type": "Testnet",
         "login": "https:\/\/genesis.chainbase.com\/",
-        "register": ""
+        "register": "klnns;lsndo;ds",
+        "thread": "https:\/\/genesis.chainbase.com\/"
     },
     {
         "name": "RCADE",
         "type": "Farming",
         "login": "",
-        "register": "https:\/\/sidequest.rcade.game\/quests"
+        "register": "https:\/\/sidequest.rcade.game\/quests",
+        "thread": "https:\/\/genesis.chainbase.com\/"
     },
     {
         "name": "Zeebu",
         "type": "Protocol",
         "login": "https:\/\/protocol.zeebu.com\/",
-        "register": ""
+        "register": "",
+        "thread": "https:\/\/genesis.chainbase.com\/"
     },
     {
         "name": "Assisterr",
         "type": "Farming",
         "login": "https:\/\/build.assisterr.ai\/dashboard",
-        "register": "https:\/\/build.assisterr.ai\/?ref=667bd28796df5a76239f1253"
+        "register": "https:\/\/build.assisterr.ai\/?ref=667bd28796df5a76239f1253",
+        "thread": "https:\/\/genesis.chainbase.com\/"
     },
     {
         "name": "Rise",
         "type": "Farming",
         "login": "https:\/\/app.side.xyz\/dashboard",
-        "register": ""
+        "register": "",
+        "thread": "https:\/\/genesis.chainbase.com\/"
     },
     {
         "name": "Nebx",
         "type": "",
         "login": "https:\/\/nebx.io\/",
-        "register": "https:\/\/nebx.io\/login?v=57930940"
+        "register": "https:\/\/nebx.io\/login?v=57930940",
+        "thread": "https:\/\/genesis.chainbase.com\/"
     },
     {
         "name": "Deriw",
-        "type": "",
+        "type": "Testnet",
         "login": "https:\/\/www.deriw.com\/earn",
-        "register": "https:\/\/www.deriw.com\/earn"
+        "register": "https:\/\/www.deriw.com\/earn",
+        "thread": "https:\/\/genesis.chainbase.com\/"
     },
     {
         "name": "Onchain Heroes",
         "type": "",
         "login": "https:\/\/www.onchainheroes.xyz\/signup",
-        "register": "https:\/\/onchainheroes.xyz\/signup?ref=oluwa_tomi60378"
+        "register": "https:\/\/onchainheroes.xyz\/signup?ref=oluwa_tomi60378",
+        "thread": "https:\/\/genesis.chainbase.com\/"
     },
     {
         "name": "Sonic",
         "type": "Testnet",
         "login": "https:\/\/testnet.soniclabs.com\/account",
-        "register": ""
+        "register": "https:\/\/x.com\/Sage_thee_Great\/status\/1850183083363832286",
+        "thread": "https:\/\/genesis.chainbase.com\/"
     },
     {
         "name": "Humanity Protocol",
         "type": "Testnet",
         "login": "https:\/\/testnet.humanity.org\/dashboard",
-        "register": ""
+        "register": "",
+        "thread": "https:\/\/genesis.chainbase.com\/"
+    },
+    {
+        "name": "Walrus",
+        "type": "Testnet",
+        "login": "https:\/\/stake.walrus.site\/",
+        "thread": "https:\/\/x.com\/Sage_thee_Great\/status\/1851722581272904003",
+        "register": "https:\/\/stake.walrus.site\/"
+    },
+    {
+        "name": "Lumia",
+        "type": "Testnet",
+        "login": "https:\/\/quests.lumia.org\/",
+        "thread": "",
+        "register": "https:\/\/quests.lumia.org\/?referral=0x67B61aa7F7BAeb53dD853cfE5908B3A458b8BB7f"
     }
 ]

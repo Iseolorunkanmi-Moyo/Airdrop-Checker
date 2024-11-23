@@ -21,7 +21,8 @@
             "name" => $_POST['name'],
             "type" => $_POST['type'],
             "login" => $_POST['login'],
-            "register" => $_POST['register']
+            "register" => $_POST['register'],
+            "thread" => $_POST['thread']
         );
 
         $data_array[$index] = $input;
@@ -42,6 +43,7 @@
                 <input type="text"class="form-control  mb-3" name="type" placeholder="Type" value="<?php echo $row->type;?>" >
                 <input type="text"class="form-control  mb-3" name="login" placeholder="Login Link" value="<?php echo $row->login;?>" >
                 <input type="text" class="form-control mb-3" name="register" placeholder="Register Link" value="<?php echo $row->register;?>" >
+                <input type="text" class="form-control mb-3" name="thread" placeholder="Thread Link" value="<?php echo $row->thread;?>" >
                 <input type="submit" class="btn btn-primary" value="Save" name="Save" >
                 
             </form>            

@@ -36,7 +36,11 @@
                                 <td>".$index."</td>
                                 <td>".$row->name."</td>
                                 <td>".$row->type."</td>
-                                <td class='gap'><a class='btn btn-success ' href=".$row->login.">Check In</a> <a  class='btn btn-light ' href=".$row->register."> Register </a></td>
+                                <td class='gap'>
+                                    <a class='btn btn-success ' href=".$row->login.">Check In</a> 
+                                    <a  class='btn btn-light ' href=".$row->register."> Register </a> 
+                                    <a  class='btn btn-primary ' href=".$row->thread."> Thread </a> 
+                                </td>
                                 <td>
                                     <a href='edit.php?index=".$index." 'class='btn btn-warning btn-sm'>Edit</a>
                                     <a href='delete.php?index=".$index." 'class='btn btn-danger btn-sm'>Delete</a>

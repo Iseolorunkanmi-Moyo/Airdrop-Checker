@@ -23,6 +23,7 @@
                 <input type="text" class="form-control mb-3" name="type" placeholder="Type">
                 <input type="text"class="form-control  mb-3" name="login" placeholder="Login Link">
                 <input type="text"class="form-control  mb-3" name="register" placeholder="Register Link">
+                <input type="text"class="form-control  mb-3" name="thread" placeholder="Thread Link">
                 <input type="submit" class="btn btn-primary" value="Save" name="Save" id="save">
             </form>
 
@@ -48,6 +49,7 @@
                 "name" => $_POST['name'],
                 "type" => $_POST['type'],
                 "login" => $_POST['login'],
+                "thread" => $_POST['thread'],
                 "register" => $_POST['register']
             );
     
