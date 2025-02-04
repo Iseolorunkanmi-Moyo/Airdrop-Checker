@@ -7,13 +7,6 @@
         "thread": "https:\/\/genesis.chainbase.com\/"
     },
     {
-        "name": "RCADE",
-        "type": "Farming",
-        "login": "",
-        "register": "https:\/\/sidequest.rcade.game\/quests",
-        "thread": "https:\/\/genesis.chainbase.com\/"
-    },
-    {
         "name": "Zeebu",
         "type": "Protocol",
         "login": "https:\/\/protocol.zeebu.com\/",
@@ -28,38 +21,10 @@
         "thread": "https:\/\/genesis.chainbase.com\/"
     },
     {
-        "name": "Rise",
-        "type": "Farming",
-        "login": "https:\/\/app.side.xyz\/dashboard",
-        "register": "",
-        "thread": "https:\/\/genesis.chainbase.com\/"
-    },
-    {
-        "name": "Nebx",
-        "type": "",
-        "login": "https:\/\/nebx.io\/",
-        "register": "https:\/\/nebx.io\/login?v=57930940",
-        "thread": "https:\/\/genesis.chainbase.com\/"
-    },
-    {
         "name": "Deriw",
         "type": "Testnet",
         "login": "https:\/\/www.deriw.com\/earn",
         "register": "https:\/\/www.deriw.com\/earn",
-        "thread": "https:\/\/genesis.chainbase.com\/"
-    },
-    {
-        "name": "Onchain Heroes",
-        "type": "",
-        "login": "https:\/\/www.onchainheroes.xyz\/signup",
-        "register": "https:\/\/onchainheroes.xyz\/signup?ref=oluwa_tomi60378",
-        "thread": "https:\/\/genesis.chainbase.com\/"
-    },
-    {
-        "name": "Sonic",
-        "type": "Testnet",
-        "login": "https:\/\/testnet.soniclabs.com\/account",
-        "register": "https:\/\/x.com\/Sage_thee_Great\/status\/1850183083363832286",
         "thread": "https:\/\/genesis.chainbase.com\/"
     },
     {
@@ -82,5 +47,40 @@
         "login": "https:\/\/quests.lumia.org\/",
         "thread": "",
         "register": "https:\/\/quests.lumia.org\/?referral=0x67B61aa7F7BAeb53dD853cfE5908B3A458b8BB7f"
+    },
+    {
+        "name": "Fractal",
+        "type": "Testnet",
+        "login": "https:\/\/dapp.fractionai.xyz\/dashboard",
+        "thread": "https:\/\/x.com\/farmercist_eth\/status\/1875084653675085924?s=46",
+        "register": "https:\/\/dapp.fractionai.xyz?referral=46F54295"
+    },
+    {
+        "name": "Newton",
+        "type": "Quests",
+        "login": "https:\/\/www.magicnewton.com\/portal\/rewards",
+        "thread": "",
+        "register": ""
+    },
+    {
+        "name": "Liqfinity",
+        "type": "Testnet",
+        "login": "http:\/\/app.testnet.liqfinity.com\/user\/wallets",
+        "thread": "https:\/\/t.me\/alphapham\/694",
+        "register": ""
+    },
+    {
+        "name": "TOBY",
+        "type": "Testnet",
+        "login": "https:\/\/testnet.toby.foundation\/onboarding",
+        "thread": "",
+        "register": ""
+    },
+    {
+        "name": "Layeredge",
+        "type": "Testnet",
+        "login": "https:\/\/dashboard.layeredge.io\/",
+        "thread": "",
+        "register": "https:\/\/dashboard.layeredge.io\/"
     }
 ]
