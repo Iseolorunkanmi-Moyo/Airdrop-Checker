@@ -9,8 +9,8 @@
     {
         "name": "Zeebu",
         "type": "Protocol",
-        "login": "https:\/\/protocol.zeebu.com\/",
-        "register": "",
+        "login": "https:\/\/zeebu.fi\/task",
+        "register": "https:\/\/zeebu.fi\/task",
         "thread": "https:\/\/genesis.chainbase.com\/"
     },
     {
@@ -82,5 +82,12 @@
         "login": "https:\/\/dashboard.layeredge.io\/",
         "thread": "",
         "register": "https:\/\/dashboard.layeredge.io\/"
+    },
+    {
+        "name": "Bless",
+        "type": "DEPIN",
+        "login": "https:\/\/bless.network\/dashboard",
+        "thread": "",
+        "register": ""
     }
 ]
