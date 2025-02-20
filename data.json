@@ -35,13 +35,6 @@
         "thread": "https:\/\/genesis.chainbase.com\/"
     },
     {
-        "name": "Walrus",
-        "type": "Testnet",
-        "login": "https:\/\/stake.walrus.site\/",
-        "thread": "https:\/\/x.com\/Sage_thee_Great\/status\/1851722581272904003",
-        "register": "https:\/\/stake.walrus.site\/"
-    },
-    {
         "name": "Lumia",
         "type": "Testnet",
         "login": "https:\/\/quests.lumia.org\/",
@@ -87,6 +80,20 @@
         "name": "Bless",
         "type": "DEPIN",
         "login": "https:\/\/bless.network\/dashboard",
+        "thread": "",
+        "register": ""
+    },
+    {
+        "name": "Singularity Finance",
+        "type": "",
+        "login": "https:\/\/singularityfinance.ai\/testnet\/dashboard",
+        "thread": "",
+        "register": ""
+    },
+    {
+        "name": "Immortal Rising",
+        "type": "",
+        "login": "https:\/\/immortalrising2.com\/mission",
         "thread": "",
         "register": ""
     }
