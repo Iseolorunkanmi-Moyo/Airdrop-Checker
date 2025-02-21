@@ -96,5 +96,19 @@
         "login": "https:\/\/immortalrising2.com\/mission",
         "thread": "",
         "register": ""
+    },
+    {
+        "name": "Lisk",
+        "type": "",
+        "login": "https:\/\/portal.lisk.com\/airdrop",
+        "thread": "",
+        "register": ""
+    },
+    {
+        "name": "Zenquest",
+        "type": "",
+        "login": "https:\/\/zenquest.zenchain.io\/quests",
+        "thread": "",
+        "register": "https:\/\/zenquest.zenchain.io?referral=vyRr9OifxFmfrLK4m6P64Wf2_Z-tOSS1a_Dx1UWMt3w"
     }
 ]
