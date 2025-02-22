@@ -59,8 +59,8 @@
         "name": "Liqfinity",
         "type": "Testnet",
         "login": "http:\/\/app.testnet.liqfinity.com\/user\/wallets",
-        "thread": "https:\/\/t.me\/alphapham\/694",
-        "register": ""
+        "register": "",
+        "thread": "https:\/\/t.me\/alphapham\/694"
     },
     {
         "name": "TOBY",
@@ -108,7 +108,35 @@
         "name": "Zenquest",
         "type": "",
         "login": "https:\/\/zenquest.zenchain.io\/quests",
+        "register": "https:\/\/zenquest.zenchain.io?referral=vyRr9OifxFmfrLK4m6P64Wf2_Z-tOSS1a_Dx1UWMt3w",
+        "thread": "https:\/\/x.com\/MaransCrypto\/status\/1863589698054299846"
+    },
+    {
+        "name": "Taker",
+        "type": "",
+        "login": "https:\/\/earn.taker.xyz\/",
+        "register": "https:\/\/earn.taker.xyz?start=0K206",
+        "thread": "https:\/\/t.me\/farmercistjournal0\/2505"
+    },
+    {
+        "name": "Monad",
+        "type": "",
+        "login": "https:\/\/testnet.monad.xyz\/",
+        "thread": "https:\/\/x.com\/MaransCrypto\/status\/1892580730133450943",
+        "register": ""
+    },
+    {
+        "name": "KGEN",
+        "type": "",
+        "login": "https:\/\/play.kgen.io\/k-drop\/campaigns\/23db0031-b248-42c2-b072-edb28b30b9d5?provider=DISCORD&code=VOA0yOnubrrVdMX59HjfjZG23veSJ2",
         "thread": "",
-        "register": "https:\/\/zenquest.zenchain.io?referral=vyRr9OifxFmfrLK4m6P64Wf2_Z-tOSS1a_Dx1UWMt3w"
+        "register": ""
+    },
+    {
+        "name": "SAHARA LAB",
+        "type": "",
+        "login": "https:\/\/legends.saharalabs.ai\/?code=CYFD0C",
+        "register": "",
+        "thread": "https:\/\/x.com\/Jessicalevi13\/status\/1885597363894407252"
     }
 ]
