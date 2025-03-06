@@ -138,5 +138,40 @@
         "login": "https:\/\/legends.saharalabs.ai\/?code=CYFD0C",
         "register": "",
         "thread": "https:\/\/x.com\/Jessicalevi13\/status\/1885597363894407252"
+    },
+    {
+        "name": "Tari",
+        "type": "",
+        "login": "https:\/\/airdrop.tari.com\/",
+        "thread": "https:\/\/x.com\/FareaNFts\/status\/1799136995467256085?t=d-F5IaX8tD6MMv0J5Oh4jA&",
+        "register": "https:\/\/airdrop.tari.com?referralCode=KmgusdgoaE"
+    },
+    {
+        "name": "Union",
+        "type": "",
+        "login": "https:\/\/app.union.build\/faucet",
+        "thread": "https:\/\/x.com\/bloomstarbms\/status\/1891024183460593817",
+        "register": ""
+    },
+    {
+        "name": "HEMI",
+        "type": "",
+        "login": "https:\/\/points.absinthe.network\/hemi\/d\/dashboard",
+        "thread": "https:\/\/x.com\/MaransCrypto\/status\/1872687085448249580",
+        "register": ""
+    },
+    {
+        "name": "Kite Ai",
+        "type": "",
+        "login": "https:\/\/testnet.gokite.ai\/",
+        "thread": "https:\/\/x.com\/Joshyysmartt\/status\/1888216487090848255",
+        "register": ""
+    },
+    {
+        "name": "Plaza",
+        "type": "",
+        "login": "https:\/\/guild.xyz\/plaza-finance",
+        "thread": "https:\/\/x.com\/FareaNFts\/status\/1876689195877454062",
+        "register": ""
     }
 ]
