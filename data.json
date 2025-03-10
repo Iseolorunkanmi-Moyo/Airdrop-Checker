@@ -173,5 +173,26 @@
         "login": "https:\/\/guild.xyz\/plaza-finance",
         "thread": "https:\/\/x.com\/FareaNFts\/status\/1876689195877454062",
         "register": ""
+    },
+    {
+        "name": "Axie Infinity",
+        "type": "",
+        "login": "https:\/\/axieinfinity.com\/pre-register?status=registration-successful",
+        "thread": "",
+        "register": "https:\/\/axieinfinity.com\/pre-register\/?ref=r1k8hunf"
+    },
+    {
+        "name": "AIDA",
+        "type": "",
+        "login": "https:\/\/my.aidapp.com\/tasks",
+        "thread": "https:\/\/t.me\/farmercistjournal0\/3043",
+        "register": "https:\/\/my.aidapp.com?refCode=KdT9KUAY37SwtcU"
+    },
+    {
+        "name": "Dreamer - SAGE",
+        "type": "",
+        "login": "https:\/\/dreamerquests.partofdream.io\/onboarding",
+        "thread": "",
+        "register": "https:\/\/dreamerquests.partofdream.io\/login?referralCodeForPOD=6a62ced0"
     }
 ]
