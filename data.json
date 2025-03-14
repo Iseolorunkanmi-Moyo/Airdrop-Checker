@@ -176,10 +176,10 @@
     },
     {
         "name": "Axie Infinity",
-        "type": "",
+        "type": "Referral",
         "login": "https:\/\/axieinfinity.com\/pre-register?status=registration-successful",
-        "thread": "",
-        "register": "https:\/\/axieinfinity.com\/pre-register\/?ref=r1k8hunf"
+        "register": "https:\/\/axieinfinity.com\/pre-register\/?ref=r1k8hunf",
+        "thread": ""
     },
     {
         "name": "AIDA",
@@ -194,5 +194,19 @@
         "login": "https:\/\/dreamerquests.partofdream.io\/onboarding",
         "thread": "",
         "register": "https:\/\/dreamerquests.partofdream.io\/login?referralCodeForPOD=6a62ced0"
+    },
+    {
+        "name": "Somnia",
+        "type": "Testnet",
+        "login": "https:\/\/testnet.somnia.network\/",
+        "thread": "https:\/\/x.com\/Sage_thee_Great\/status\/1900506941354348726",
+        "register": "https:\/\/testnet.somnia.network\/"
+    },
+    {
+        "name": "KLOK",
+        "type": "AI",
+        "login": "https:\/\/klokapp.ai\/app",
+        "thread": "",
+        "register": ""
     }
 ]
